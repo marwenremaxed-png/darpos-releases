@@ -1,6 +1,5 @@
 {
-    "latest_version":  "1.0.2",
-    "download_url":  "https://github.com/marwenremaxed-png/darpos-releases/releases/download/v1.0.2/DarPosPro_Setup_1.0.2.exe",
-    "sha256":  "63d3acfcd78393cdda41a62d236db47e42f9d0d9b589de216d5467685b3c2bee",
-    "notes":  "الإصدار 1.0.2\n- [هذا التحديث من dar prod mario]"
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/marwenremaxed-png/darpos-releases/releases/download/v1.0.4/DarPosPro_Setup.exe",
+  "notes": "الإصدار 1.0.4: تحسينات جديدة وإصلاحات."
 }
